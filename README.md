@@ -22,7 +22,7 @@
 ![](https://img.shields.io/badge/Intel-Core%20i7-informational?style=flat&logo=intel&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Radeon%20460-4%20GB-informational?style=flat&logo=amd&logoColor=white&color=2bbc8a)
 
-![](https://img.shields.io/badge/iPhone-11%20Pro%20Max-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/iPhone-11%20Pro%20Max-informational?style=flat&logo=apple&logoColor=white&color=green)
 
 ## Languages
 
