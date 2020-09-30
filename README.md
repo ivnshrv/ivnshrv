@@ -32,6 +32,6 @@
 
 ### 💻 Programming
 ![](https://img.shields.io/badge/Python-3-informational?style=flat&logo=python&logoColor=white&color=orange)
-![](https://img.shields.io/badge/C++-2020-informational?style=flat&logo=c&logoColor=white&color=orange)
+![](https://img.shields.io/badge/C++-20-informational?style=flat&logo=c&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/HTML-5-informational?style=flat&logo=HTML5&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/QT-5-informational?style=flat&logo=qt&logoColor=white&color=orange)
