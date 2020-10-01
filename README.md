@@ -26,9 +26,9 @@
 
 ### 🌍 Regular
 
-![](https://img.shields.io/badge/Русский-Russian-informational?style=flat&logo=apple&logoColor=white&color=red)
-![](https://img.shields.io/badge/English-English-informational?style=flat&logo=apple&logoColor=white&color=red)
-![](https://img.shields.io/badge/汉语-Chinese-informational?style=flat&logo=apple&logoColor=white&color=red)
+![](https://img.shields.io/badge/Русский-Russian-informational?style=flat&logo=&logoColor=white&color=red)
+![](https://img.shields.io/badge/English-English-informational?style=flat&logo=&logoColor=white&color=red)
+![](https://img.shields.io/badge/汉语-Chinese-informational?style=flat&logo=&logoColor=white&color=red)
 
 ### 💻 Programming
 ![](https://img.shields.io/badge/Python-3-informational?style=flat&logo=python&logoColor=white&color=orange)
