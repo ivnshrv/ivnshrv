@@ -1,6 +1,7 @@
 # Hi there 👋
 
-
+I'm Ivan Shiryaev, 13 yo, fell in love w/ programming
+https://ivnshrv.carrd.co
 
 
 ## 📫 Contacts 
@@ -45,6 +46,8 @@
 
 
 ![](https://forthebadge.com/images/badges/powered-by-coffee.svg)
+
+
 
 
 ![](https://forthebadge.com/images/badges/built-by-developers.svg)
