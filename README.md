@@ -37,11 +37,13 @@
 ![](https://img.shields.io/badge/QT-5-informational?style=flat&logo=qt&logoColor=white&color=orange)
 
 ### 🧐 Phylosophy
-
 ![](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)
+
 
 ![](https://forthebadge.com/images/badges/powered-by-black-magic.svg)
 
+
 ![](https://forthebadge.com/images/badges/powered-by-coffee.svg)
+
 
 ![](https://forthebadge.com/images/badges/built-by-developers.svg)
