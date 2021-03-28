@@ -9,11 +9,6 @@ I'm Ivan Shiryaev, 13 yo, fell in love w/ programming
 
 <a href="https://t.me/ivnshrv" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/telegram-%231DA1F2.svg?&style=for-the-badge&logo=telegram&logoColor=white" /></a> <a href="https://github.com/ivnshrv" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://vk.com/ivnshrv" target="_blank"><img alt="VK" src="https://img.shields.io/badge/VK-%2312100E.svg?&style=for-the-badge&logo=VK&logoColor=white" /></a>
 
-## 📀 OS
-
-![](https://img.shields.io/badge/macOS-informational?style=flat&logo=apple&logoColor=white&color=violet)
-![](https://img.shields.io/badge/Ubuntu-informational?style=flat&logo=Ubuntu&logoColor=white&color=violet)
-![](https://img.shields.io/badge/iOS-informational?style=flat&logo=apple&logoColor=white&color=violet)
 
 ## 📱 Devices
 
@@ -38,16 +33,3 @@ I'm Ivan Shiryaev, 13 yo, fell in love w/ programming
 ![](https://img.shields.io/badge/HTML-5-informational?style=flat&logo=HTML5&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/QT-5-informational?style=flat&logo=qt&logoColor=white&color=orange)
 
-## 🧐 Phylosophy
-
-![](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)
-
-
-![](https://forthebadge.com/images/badges/powered-by-black-magic.svg)
-
-
-
-
-
-
-![](https://forthebadge.com/images/badges/built-by-developers.svg)
