@@ -2,7 +2,7 @@
 
 I'm Ivan Shiryaev, 13 yo, fell in love w/ programming
 
-https://ivnshrv.carrd.co
+
 
 
 ## 📫 Contacts 
