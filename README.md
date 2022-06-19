@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Ivan Shiryaev, 14 yo, fell in love w/ programming
+I'm Ivan Shiryaev, 15 yo, fell in love w/ programming
 
 
 
