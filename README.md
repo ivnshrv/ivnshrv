@@ -1,6 +1,8 @@
-# Hi there 👋
+# Hi 👋
 
-I'm Ivan Shiryaev, 15 yo
+🧑🏻‍💻 My name is Ivan Shi
+🧑🏻‍💼 I'm 15 yo.
+🌇 Developer from 🇷🇺 Moscow & 🇦🇹 Vienna
 
 
 
