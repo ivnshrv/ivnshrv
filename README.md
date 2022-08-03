@@ -1,7 +1,9 @@
 # Hi 👋
 
 🧑🏻‍💻 My name is Ivan Shi
+
 🧑🏻‍💼 I'm 15 yo.
+
 🌇 Developer from 🇷🇺 Moscow & 🇦🇹 Vienna
 
 
