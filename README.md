@@ -4,8 +4,13 @@
 
 🧑🏻‍💼 I'm 15 yo.
 
-🌇 Developer from 🇷🇺 Moscow & 🇦🇹 Vienna
+🌇 Based in 🇷🇺 Moscow & 🇦🇹 Vienna
 
+🧑🏻‍💻 Python & C++ Developer
+
+👾 Spark AR Creator
+
+🧑🏻‍✈️ Certified UAV Pilot
 
 
 
