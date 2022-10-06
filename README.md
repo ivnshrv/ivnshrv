@@ -4,7 +4,7 @@
 
 🧑🏻‍💼 I'm 15 yo.
 
-🌇 Based in 🇷🇺 Moscow & 🇦🇹 Vienna
+🌇 Based in 🇷🇺 Moscow
 
 🧑🏻‍💻 Python & C++ Developer
 
