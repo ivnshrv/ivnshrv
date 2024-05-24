@@ -2,7 +2,7 @@
 
 🧑🏻‍💻 My name is Ivan Shi
 
-🧑🏻‍💼 I'm 16 yo.
+🧑🏻‍💼 I'm 17 yo.
 
 🌇 Based in 🇷🇺 Moscow
 
