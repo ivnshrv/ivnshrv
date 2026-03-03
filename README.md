@@ -2,7 +2,7 @@
 🎓 Honors graduate of Primakov School, one of Russia’s top high schools.<br>📘 Currently pursuing a dual degree in Data Science & Business Analytics at HSE University (Moscow) and the London School of Economics.<br>🤖 Interested in AI/ML, risk assessment, quantitative methods, and quantitative finance.<br>🛠️ I build personal projects to turn academic knowledge into practical skills in data analysis and modeling.<br>🌍 Fluent in Russian and English, proficient in German and Chinese.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/ivnshrv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ivnshrv) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:i@shiryaeff.ru) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ivnshrv) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ivnshrv)
 
 # 💻 Tech Stack:
